@@ -1,0 +1,90 @@
+[
+  {
+    "_id": {
+      "$oid": "635e69c1f0d7593da60ffe2c"
+    },
+    "name": "FIFA",
+    "price": 190,
+    "info": "FIFA Toy",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_logo_without_slogan.svg",
+    "category": "Construction_game"
+  },
+  {
+    "name": "GTA",
+    "price": 70,
+    "info": "GTA gun game",
+    "img_url": "https://image.jeuxvideo.com/medias-sm/163129/1631287693-8700-jaquette-avant.jpg",
+    "category": "Construction_game"
+  },
+  {
+    "name": "Lego",
+    "price": 300,
+    "info": "Lego toy ",
+    "img_url": "https://www.maxbaby.co.il/images/itempics/8722_16112022190728_large.jpg",
+    "category": "Construction_game"
+  },
+  {
+    "name": "COMBAT ARMS",
+    "price": 60,
+    "info": "Gun game",
+    "img_url": "https://upload.wikimedia.org/wikipedia/he/7/7a/Combat_Arms_cover.jpg",
+    "category": "Box_game"
+  },
+  {
+    "name": "Rummikub",
+    "price": 800,
+    "info": "Card game",
+    "img_url": "https://www.toyhouse.co.il/images/itempics/679674_22072020134203_large.jpg",
+    "category": "Box_game"
+  },
+  {
+    "name": "Asphalt 8",
+    "price": 670,
+    "info": "Car racing game",
+    "img_url": "https://m.media-amazon.com/images/I/81gnJiSyyjL.jpg",
+    "category": "Box_game"
+  },
+  {
+    "name": "Conter Strike",
+    "price": 90,
+    "info": "Gun game",
+    "img_url": "https://upload.wikimedia.org/wikipedia/he/6/67/Counter-Strike_Box.jpg",
+    "category": "Video_games"
+  },
+  {
+    "name": "NBA",
+    "price": 400,
+    "info": "Basketball Game",
+    "img_url": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",
+    "category": "Video_games"
+  },
+  {
+    "name": "Hitman",
+    "price": 500,
+    "info": "Gun game",
+    "img_url": "https://m.media-amazon.com/images/I/51BnFvvSlFL._AC_SY580_.jpg",
+    "category": "Video_games"
+  },
+  {
+    "name": "Pacman",
+    "price": 22,
+    "info": "Pacman Toy",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pacman.svg/1200px-Pacman.svg.png",
+    "category": "Video_games"
+  },
+  {
+    "name": "Bubble Shooter",
+    "price": 42,
+    "info": "Bubble burst game",
+    "img_url": "https://tcf.admeen.org/game/500/307/400x246/bubble-shooter.jpg",
+    "category": "Video_games"
+  },
+  {
+    "name": "Soliter",
+    "price": 169,
+    "info": "Card game ",
+    "img_url": "https://solitaired.com/images/favicons/card-tableau.png",
+    "category": "Video_games"
+  }
+  
+]
